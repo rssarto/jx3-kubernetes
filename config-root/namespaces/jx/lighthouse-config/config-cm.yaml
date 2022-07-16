@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - rssarto/jx3-kubernetes
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.172.20.255.203.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
